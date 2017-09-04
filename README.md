@@ -9,8 +9,8 @@ Many efforts are put nowadays in teaching how to develop to several levels, star
 Since we needed the system to look like a museum, I thought for testing it would be fun to make it look like the first computers.
 I used the appartment course starter for the room and the exterior. I added some prefax from it.
 The computers were downloaded from: http://www.esi.uclm.es/museo/
-I added a few canvas around the room to explain the different types of testing and some moths above the computers.
-I used waypoints to move around the room because I did not want to make it too complicated to find the moths. There are extra waypoints and you should be able to find at least one moth per waypoint.
+**I added a few canvas around the room to explain the different types of testing and some moths above the computers.**
+I used waypoints to move around the room because I did not want to make it too complicated to **find the moths**. There are extra waypoints and you should be able to find at least one moth per waypoint.
 
 ## Statement of purpose: 
 The purpose of the project is to learn different type of testing and how to apply them in VR applications.
@@ -24,7 +24,7 @@ The purpose of the project is to learn different type of testing and how to appl
 *VR experience:* Little.
 
 ## Breakdown of final app: 
-At the start of the experience there is a UI screen introducing the application and the environment to the users. Then the user can move by clicking the spheres (waypoints) around the room. The goal of the application is to find all the moths and learn about testing with each one of them.
+**At the start of the experience there is a UI screen introducing the application and the environment to the users. Then the user can move by clicking the spheres (waypoints) around the room. The goal of the application is to find all the moths and learn about testing with each one of them.**
 
 ![Screenshot1](https://github.com/NoemiElisa/museum/blob/master/Screenshots/Screenshot_2017-09-03-16-49-27.png)
 ![Screenshot1](https://github.com/NoemiElisa/museum/blob/master/Screenshots/Screenshot_2017-09-03-16-49-32.png)
