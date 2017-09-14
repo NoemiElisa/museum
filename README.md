@@ -17,10 +17,15 @@ The purpose of the project is to learn different type of testing and how to appl
 
 ## Persona: 
 *Name:* Little billy.
-*Age: * 12.
-*Occupation: * Student.
+
+*Age:* 12.
+
+*Occupation:* Student.
+
 *Quote:* “I love games and I would like to learn how to create them”.
+
 *Motive:* Students like Billy like games and want to learn how to create them. Testing is part of creating the games, if the environment is motivational and game/like, Billy is interested.
+
 *VR experience:* Little.
 
 ## Breakdown of final app: 
